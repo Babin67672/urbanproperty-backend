@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Modern Apartment in Downtown",
+    "description": "A stylish modern apartment with 2 bedrooms and 2 bathrooms, located in the heart of the city. Features include a rooftop terrace, gym, and 24/7 security.",
+    "price": 2500000,
+    "location": {
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zip": "122018"
+    },
+    "type": "Apartment",
+    "features": ["Rooftop Terrace", "Gym", "24/7 Security", "Parking"],
+    "images": [
+      "https://example.com/images/apartment1.jpg",
+      "https://example.com/images/apartment2.jpg"
+    ]
+  },
+  {
+    "title": "Spacious Family House",
+    "description": "A beautiful 4-bedroom house with a large garden, perfect for families. Located in a quiet neighborhood with good schools and parks nearby.",
+    "price": 5000000,
+    "location": {
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zip": "122002"
+    },
+    "type": "House",
+    "features": ["Large Garden", "Garage", "Nearby Schools", "Quiet Neighborhood"],
+    "images": [
+      "https://example.com/images/house1.jpg",
+      "https://example.com/images/house2.jpg"
+    ]
+  },
+  {
+    "title": "Luxury Penthouse with a View",
+    "description": "An exquisite penthouse with panoramic views of the city skyline. Features include 3 bedrooms, a private pool, and a spacious living area.",
+    "price": 10000000,
+    "location": {
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zip": "122018"
+    },
+    "type": "Penthouse",
+    "features": ["Private Pool", "Panoramic Views", "High-end Finishes", "Large Balcony"],
+    "images": [
+      "https://example.com/images/penthouse1.jpg",
+      "https://example.com/images/penthouse2.jpg"
+    ]
+  },
+  {
+    "title": "Cozy Studio Apartment",
+    "description": "A compact studio apartment ideal for singles or couples. Located in a vibrant area with easy access to public transportation and amenities.",
+    "price": 1500000,
+    "location": {
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zip": "122018"
+    },
+    "type": "Studio",
+    "features": ["Compact Design", "Public Transport Nearby", "Vibrant Area"],
+    "images": [
+      "https://example.com/images/studio1.jpg",
+      "https://example.com/images/studio2.jpg"
+    ]
+  },
+  {
+    "title": "Country House with Farm",
+    "description": "A charming country house with a large farm and plenty of outdoor space. Ideal for those looking to live away from the hustle and bustle of the city.",
+    "price": 7500000,
+    "location": {
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zip": "122101"
+    },
+    "type": "Farmhouse",
+    "features": ["Large Farm", "Outdoor Space", "Quiet Location", "Country Style"],
+    "images": [
+      "https://example.com/images/farmhouse1.jpg",
+      "https://example.com/images/farmhouse2.jpg"
+    ]
+  }
+]
